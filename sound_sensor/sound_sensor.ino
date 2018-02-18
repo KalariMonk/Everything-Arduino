@@ -1,6 +1,9 @@
 /*
  * This is a simple script to check your sound sensor by blinking the buit-in LED.
  * LED glows when the sensor senses sound(variation in air pressure) !!!
+ * 
+ * 
+ * Author: KalariMonk
 */
 
 //The out of the sound sensor is connected to the A1 analog pin of Arduino
